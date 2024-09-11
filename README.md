@@ -1,4 +1,4 @@
-# Fondom-K
+# Fandom-K
 
 ![image](https://github.com/user-attachments/assets/f5fa4999-693e-437e-baf1-50458ee29155)
 
