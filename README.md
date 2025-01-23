@@ -8,6 +8,10 @@
 
 https://fandom-k-9-4.netlify.app/
 
+## 프로젝트 노션문서
+
+https://ablaze-yoke-f0e.notion.site/Fandom-K-a0634be96a6240589433edcb86c13275
+
 <br/>
 
 # 웹 서비스 소개
